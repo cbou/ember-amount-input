@@ -1,7 +1,7 @@
 {
   "name": "ember-amount-input",
   "version": "1.0.0-beta.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Easily create a money input with the currency of your liking.",
   "keywords": [
     "ember-addon"
   ],
